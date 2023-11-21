@@ -1,0 +1,10 @@
+1 небольшие изменеия в шляпе
+2 Merge remote-tracking branch 'origin/hat' into boots_buttons Timodey 16 minutes ago
+Merge remote-tracking branch 'origin/buttons' into boots_buttons Timodey 48 minutes ago
+Merge remote-tracking branch 'origin/boots' into boots_buttons Timodey 48 minutes ago
+fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+dots Andrew Khodzhakhanov 29.06.2016 2:24
+README added Andrew Khodzhakhanov 29.06.2016 1:02
+boots Andrew Khodzhakhanov 29.06.2016 0:52
+heat added Andrew Khodzhakhanov 29.06.2016 0:47
+init Andrew Khodzhakhanov 29.06.2016 0:46
